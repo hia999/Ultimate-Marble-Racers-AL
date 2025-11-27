@@ -195,7 +195,7 @@ TextureImporter:
         width: 107
         height: 107
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -217,7 +217,7 @@ TextureImporter:
         width: 107
         height: 107
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -239,7 +239,7 @@ TextureImporter:
         width: 107
         height: 107
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -261,7 +261,7 @@ TextureImporter:
         width: 107
         height: 107
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -270,6 +270,28 @@ TextureImporter:
       bones: []
       spriteID: 53710846cbbe58540800000000000000
       internalID: 5009669354892039989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 66 Circle png_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 914
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9861c0c011bd6941b8c7f04cd3ae390
+      internalID: 1843694387
       vertices: []
       indices: 
       edges: []
@@ -292,6 +314,7 @@ TextureImporter:
       66 Circle png_1: 7419918016205315477
       66 Circle png_2: 4706390655102783739
       66 Circle png_3: 5009669354892039989
+      66 Circle png_4: 1843694387
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
