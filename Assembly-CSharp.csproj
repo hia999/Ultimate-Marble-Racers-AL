@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Destroydelay.cs" />
     <Compile Include="Assets\Script\edgeInvert.cs" />
+    <Compile Include="Assets\Script\Bounce.cs" />
     <Compile Include="Assets\Script\KeepRotating.cs" />
     <Compile Include="Assets\Script\Trail.cs" />
   </ItemGroup>
